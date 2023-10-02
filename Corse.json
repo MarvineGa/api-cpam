@@ -1,0 +1,17 @@
+[
+    {
+        "departement": "corse-du-sud",
+        "urls": [
+            "https://lannuaire.service-public.fr/corse/corse-du-sud/013893ca-fbbd-4320-9e91-63d49f816aea",
+            "https://lannuaire.service-public.fr/corse/corse-du-sud/7e0ecf68-6742-4813-9b62-89dc0e602290",
+            "https://lannuaire.service-public.fr/corse/corse-du-sud/a7a5c88d-e289-4f54-a5cc-a32b389ce42c",
+            "https://annuaire.action-sociale.org/CPAM/CPAM-2A272-01-cpam-de-corse-du-sud---accueil-de-sartene.html"
+        ]
+    },
+    {
+        "departement": "haute-corse",
+        "urls": [
+            "https://lannuaire.service-public.fr/corse/haute-corse/7f59c7b0-9e2a-4b0f-9bb1-9c8b931adfa5"
+        ]
+    }
+]

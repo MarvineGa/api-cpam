@@ -1,0 +1,63 @@
+[
+    {
+        "departement": "cher",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/cher/563ca538-f273-4ff0-af3d-aac3c2a39671",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/cher/0b3817bf-63f0-447e-98d2-3ea377a97312",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/cher/e008d7c6-2063-43b0-aeff-49865efe57d3"
+        ]
+    },
+    {
+        "departement": "eure-et-loir",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/4154b613-9279-473c-801e-436a653c23be",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/e1d4e217-2e52-4f34-9617-136654a9a10e",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/2234ea46-b56c-40ae-a9d6-a3381ae61006",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/7928160a-c9d3-4812-94a0-23a9f06905bc",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/4429ea54-9c2f-488d-b6d0-3625790b95a7"
+        ]
+    },
+    {
+        "departement": "indre",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/indre/84e780f4-5f86-4ca4-99f0-4d1cfecc256d"
+
+        ]
+    },
+    {
+        "departement": "indre-et-loire",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/e7414d00-3986-4b3b-983a-e2998b696f7f",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/74e2bb30-d7f8-4d1e-a8ae-32ad8048016a",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/e2e33e04-5095-4fb3-b316-5ab2722e8756"
+        ]
+    },
+    {
+        "departement": "loir-et-cher",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/b239f473-126d-4eb2-9bd9-a97d8efd6970",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/b2a8d040-a673-4c30-8756-ff21e79b3587",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/769af6b8-ccb3-4273-bd3c-17bb772359cb",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ff1bf37c-e769-4b7f-92be-3ab0abe5530b",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/26c46390-ba2d-4350-ab8e-23fa4bd2ef39",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/5e94cca3-6da3-41d6-b98e-0db1b53bf475",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/f35c05f5-a674-4e07-8b5d-a597d23af746",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/c196225b-7e36-440c-b097-633b56a603a0",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/8c84ae1e-0b3c-43af-a5ff-09eed548141c",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/4708a38a-2bee-4afc-a61b-41328ec2c19a"
+        ]
+    },
+    {
+        "departement": "loiret",
+        "urls": [
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/6f42c5ee-75f0-4067-9c1c-a87d4bb354a5",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/8107698b-b5ac-4498-bfe4-d601079d1f7d",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/e14c8e20-9db3-4911-b6da-87b07f66878c",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/562b6210-fd12-40ba-9b7f-f34d8745a7c9",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/a106806d-fd5c-45b6-98d7-f5c63379f5f8",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/c800ae5f-097f-453d-a4cb-7df83d83edca",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/5dbbcf3b-3cca-475c-a086-95e33109576b",
+            "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/2f03e953-fa29-4a83-a77d-c7fef3fb6971"
+        ]
+    }
+]

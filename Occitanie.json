@@ -1,0 +1,138 @@
+[
+    {
+        "departement": "ariège",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/ariege/f30d617e-59b1-4740-b4b9-591d66c14c5f"
+        ]
+    },
+    {
+        "departement": "aude",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/aude/3e9281a9-46dd-4b0c-91ef-36b2ad089e59",
+            "https://lannuaire.service-public.fr/occitanie/aude/eaa4430c-03bc-4e9b-adfc-54faa09760ec",
+            "https://lannuaire.service-public.fr/occitanie/aude/5b160f1a-ebfa-44d3-9b71-e5d5606e4131",
+            "https://lannuaire.service-public.fr/occitanie/aude/7800c51c-84c8-4139-ac53-4d86b74843ff",
+            "https://lannuaire.service-public.fr/occitanie/aude/fe455cdc-e0da-4b2a-8823-66ea2432e1c4",
+            "https://lannuaire.service-public.fr/occitanie/aude/6c2ea519-8b05-49c9-9fbd-8eee17eeb4fc"
+        ]
+    },
+    {
+        "departement": "aveyron",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/aveyron/27db2f64-0b77-49dc-9e72-3fe9710db369",
+            "https://lannuaire.service-public.fr/occitanie/aveyron/c4335378-27e6-4db0-84eb-f84be4ec02b8",
+            "https://lannuaire.service-public.fr/occitanie/aveyron/fe24fca8-825e-4658-aef7-efc0b5047440",
+            "https://lannuaire.service-public.fr/occitanie/aveyron/068dfe7e-4988-4260-ac5a-c9fbf93943ef"
+        ]
+    },
+    {
+        "departement": "gard",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/gard/0c223a90-0351-4679-b1eb-a12904587997",
+            "https://lannuaire.service-public.fr/occitanie/gard/d6b450cf-05cc-4173-a1cb-6a44e305f79f",
+            "https://lannuaire.service-public.fr/occitanie/gard/9494aea0-0d5f-4041-99ec-481e6a3ce6e4",
+            "https://lannuaire.service-public.fr/occitanie/gard/8398be2f-c2b3-459f-adfa-d92ecb42a342",
+            "https://lannuaire.service-public.fr/occitanie/gard/650f5c17-b7ca-4a55-8758-500673cb0aeb",
+            "https://lannuaire.service-public.fr/occitanie/gard/43ef814b-d815-4f87-8292-f61cfbccdb3a",
+            "https://lannuaire.service-public.fr/occitanie/gard/85120a05-25bb-492d-9d1f-be742cc63ba0",
+            "https://lannuaire.service-public.fr/occitanie/gard/af0652c7-615c-411e-a82e-1f637fc6c884",
+            "https://lannuaire.service-public.fr/occitanie/gard/7f4f4d58-64b1-45a5-8c0d-b89d280b1898",
+            "https://lannuaire.service-public.fr/occitanie/gard/b3eba0fa-9ab0-446d-90cb-8478f850848c",
+            "https://lannuaire.service-public.fr/occitanie/gard/ddbbfb0c-4c61-48cc-a2f4-9ce03fad4437",
+            "https://lannuaire.service-public.fr/occitanie/gard/647fed64-d665-4d36-951c-e744bdc7ae3d"
+        ]
+    },
+    {
+        "departement": "haute-garonne",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/29497a50-3ab0-45d1-b629-b40ec808d134",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/31b97be8-6379-48ba-82a9-0f873b83513b",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/bfb21014-5cc6-4335-9341-8fe835cce35f",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/4f48a69a-00a9-4382-a448-d8fe083303e6",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/286150dd-1b49-4f90-a75c-6a8e0d74edbf",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/9a93d697-0dc8-45ab-9643-30d0188c4fb6",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/628b4f9c-a45c-4a9a-92e7-60dec01f5160",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/c4d3bc05-9cf9-443b-8cdb-633c40aa219c",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/1980c706-3ff8-46ec-b8f4-c219f4e18dbf",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/32a39d40-0af7-40f5-b802-c5bdfba85751",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/ad91795d-2d79-417e-9ea1-53087e90cb48",
+            "https://lannuaire.service-public.fr/occitanie/haute-garonne/930c20be-d526-4740-a820-b727045267b7"
+        ]
+    },
+    {
+        "departement": "gers",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/gers/118da5d0-f0a1-4922-993a-e42294d40dd7",
+            "https://lannuaire.service-public.fr/occitanie/gers/991c3683-6287-4172-b9ae-9ebe2206d042",
+            "https://lannuaire.service-public.fr/occitanie/gers/3d44cf10-9dcd-40a7-9d79-a3ee3ec6b59a",
+            "https://lannuaire.service-public.fr/occitanie/gers/0d237d0a-3a3c-4423-acea-f89139a2a8c2",
+            "https://lannuaire.service-public.fr/occitanie/gers/dd4fab5e-3629-4e0d-988e-b1be0c51d99c"
+        ]
+    },
+    {
+        "departement": "hérault",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/herault/77881390-9d0b-439e-9c6a-afe71eb9e4a7",
+            "https://lannuaire.service-public.fr/occitanie/herault/8db92f97-132c-4ae1-a37d-60983c5b14f2",
+            "https://lannuaire.service-public.fr/occitanie/herault/117e3505-048b-421a-b2b5-782f2e00e5fc",
+            "https://lannuaire.service-public.fr/occitanie/herault/3308401a-e002-4bfa-b599-31048255ee9d",
+            "https://lannuaire.service-public.fr/occitanie/herault/dd9e15ca-1d73-4a3a-9b6e-510ac8da8287",
+            "https://lannuaire.service-public.fr/occitanie/herault/33f01292-9393-450c-b5cd-a8a49e88c824",
+            "https://lannuaire.service-public.fr/occitanie/herault/f48d9a76-13f9-45ec-bab2-59236da2d552",
+            "https://lannuaire.service-public.fr/occitanie/herault/1ece6f9e-9862-43bf-ab6f-4868e14c9815",
+            "https://lannuaire.service-public.fr/occitanie/herault/f6f4f01b-e16e-4470-85bd-2b3a24cbffb0"
+        ]
+    },
+    {
+        "departement": "lot",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/lot/901db9de-5c8e-45e5-ae0f-188dfbb40df3",
+            "https://lannuaire.service-public.fr/occitanie/lot/f680f70e-684c-4b2b-a88e-cf34f301cc02"
+        ]
+    },
+    {
+        "departement": "lozère",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/lozere/f329930d-6399-4c6f-b123-6db44f03e0c5"
+        ]
+    },
+    {
+        "departement": "hautes-pyrénées",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/01969a79-5780-4d7e-94d6-299f7868cb4a",
+            "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/25769f20-8239-42ae-93d1-72a6ed705fd8",
+            "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/6321104e-b42b-48ac-b246-92e6bfd6c408",
+            "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/7db5a8f4-d123-4aa3-af2d-18e079d426e5",
+            "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/b6ea3036-0e91-4d7b-8ecd-c1dd149b62b5"
+        ]
+    },
+    {
+        "departement": "pyrénées-orientales",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bd8aa899-64eb-47a3-8db6-f2d68f5ae21c",
+            "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/4410cca3-5989-4230-b5f1-74d1631e3706",
+            "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/a1cf72f6-504e-4764-852f-9e03464dbaa3",
+            "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ccd667e5-1bc9-44d9-9ae1-b25dc0e2d98f",
+            "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/9b1e1399-3194-48a8-a96b-6be44358cb84"
+        ]
+    },
+    {
+        "departement": "tarn",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/tarn/8001ea55-1e71-4a06-bf0a-e535609883a5",
+            "https://lannuaire.service-public.fr/occitanie/tarn/5944ba19-d25c-4f9a-96c8-f7512b5c43d1",
+            "https://lannuaire.service-public.fr/occitanie/tarn/f34b2b18-8d9f-4f41-b801-f0389a2b0594",
+            "https://lannuaire.service-public.fr/occitanie/tarn/504b9d32-00ad-45e2-8608-c4ab8d4ebcda",
+            "https://lannuaire.service-public.fr/occitanie/tarn/233cd744-7723-4d56-9ef8-5a3df0da2ac1",
+            "https://lannuaire.service-public.fr/occitanie/tarn/5420c3fc-d31d-4709-b340-1bd07d4240c4"
+        ]
+    },
+    {
+        "departement": "tarn-et-garonne",
+        "urls": [
+            "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/764e1407-349e-4f42-866e-9ca6dd85ebec",
+            "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/064f0f35-ef0e-4284-ac77-bc70e15b6e9f",
+            "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/9990d46b-1460-4ccd-b37f-0fdda36adf1c"
+        ]
+    }
+]

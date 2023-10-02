@@ -1,0 +1,116 @@
+[
+    {
+        "departement": "ardennes",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/ardennes/75574b1a-ff70-4de6-8861-2620f1054c2a",
+            "https://lannuaire.service-public.fr/grand-est/ardennes/c81bf326-b68d-4c4d-ab77-10db58ba3e8b",
+            "https://lannuaire.service-public.fr/grand-est/ardennes/1129cd55-060f-47f8-a066-4a12d84df239",
+            "https://lannuaire.service-public.fr/grand-est/ardennes/4f2aa1d6-c52b-4b41-afbe-1a37ac29b9a7",
+            "https://lannuaire.service-public.fr/grand-est/ardennes/e9217fd9-b323-4e4b-aa05-1de83a5059d4"
+        ]
+    },
+    {
+        "departement": "aube",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/aube/115e3030-c539-4c81-8100-151b28ffa4ff",
+            "https://lannuaire.service-public.fr/grand-est/aube/eee8580c-662f-494f-ac42-808afc309e68",
+            "https://lannuaire.service-public.fr/grand-est/aube/9833bd6d-db3e-44ee-8dbe-05aa669c472e",
+            "https://lannuaire.service-public.fr/grand-est/aube/365d5777-9ac0-4237-a392-ce511290392a",
+            "https://lannuaire.service-public.fr/grand-est/aube/f7d5a8a4-b4a3-4e66-9239-ab6562d3edb4"
+        ]
+    },
+    {
+        "departement": "marne",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/marne/66d26b63-cf07-473b-9dd9-58e012dd248a",
+            "https://lannuaire.service-public.fr/grand-est/marne/16af5e42-040a-431c-a66c-661f5d6c38ef",
+            "https://lannuaire.service-public.fr/grand-est/marne/21361c49-fcd8-42b7-992e-96c9a97bac57",
+            "https://lannuaire.service-public.fr/grand-est/marne/a2a79ca7-aa9a-4104-8626-497f1a9ef12e"
+        ]
+    },
+    {
+        "departement": "haute-marne",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/haute-marne/68188311-f672-4243-ab6b-d420a02834ef",
+            "https://lannuaire.service-public.fr/grand-est/haute-marne/b405806d-7e35-4abd-a324-867c48df8104",
+            "https://lannuaire.service-public.fr/grand-est/haute-marne/8c2aa508-af09-4762-a423-1eb210505d9d"
+        ]
+    },
+    {
+        "departement": "meurthe-et-moselle",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/eb49c662-44c2-464f-abb4-d6a401a541de",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/f67afd33-9d7d-4680-b860-11b3d831cb96",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/1254c1d9-5a59-45cb-9b02-2c72ee15af1e",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/edaf97f6-4dc6-49b5-9bd8-6e44104e6953",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/fef200c8-e264-4d7b-ad9b-6c639e903325",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/1ff34e97-bd02-4adc-b99f-deb203003b99",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/e62e1d16-a672-47f4-af02-a5ffeded23ce",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/1c52b4c8-e495-41ec-94a5-a3a8aef31d5e",
+            "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/4eff1b2a-6df1-4cf4-ab20-97e8e47c75e0"
+        ]
+    },
+    {
+        "departement": "meuse",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/meuse/282a12ea-8c70-48f4-9ba7-769f15144b2f",
+            "https://lannuaire.service-public.fr/grand-est/meuse/5c02ac2c-e9fb-44a5-88b7-51e47aaf37ce",
+            "https://lannuaire.service-public.fr/grand-est/meuse/a8a52d42-2667-4169-a8cf-b738f6106b76",
+            "https://lannuaire.service-public.fr/grand-est/meuse/71d74887-8570-423e-aabf-b6a1306810dd",
+            "https://lannuaire.service-public.fr/grand-est/meuse/8a94e109-2686-41dd-b7a0-e18d4ad91410",
+            "https://lannuaire.service-public.fr/grand-est/meuse/e33a7a2b-3877-49d7-ba46-0e21cd5b5bfc",
+            "https://lannuaire.service-public.fr/grand-est/meuse/3ab4e10c-c4dd-4bbc-871c-71a3aa98dedb",
+            "https://lannuaire.service-public.fr/grand-est/meuse/70f13d0c-ba33-40b3-894a-eecca575f3ec"
+        ]
+    },
+    {
+        "departement": "moselle",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/moselle/9ae6696c-e978-4820-b6fe-7882d984c76a",
+            "https://lannuaire.service-public.fr/grand-est/moselle/8375af80-8da5-473e-b94d-dbeeed9fe3d5",
+            "https://lannuaire.service-public.fr/grand-est/moselle/090908ef-831c-4515-a123-db857a2665ae",
+            "https://lannuaire.service-public.fr/grand-est/moselle/62ab77ff-0c19-47c0-9d60-098011061d40",
+            "https://lannuaire.service-public.fr/grand-est/moselle/96ff4fb4-86b9-43a8-9657-313e190b0464",
+            "https://lannuaire.service-public.fr/grand-est/moselle/5b0e3672-3447-47dd-8263-ceb9e1ce8a41",
+            "https://lannuaire.service-public.fr/grand-est/moselle/71745156-851e-4756-9466-e85ee396c22f",
+            "https://lannuaire.service-public.fr/grand-est/moselle/281ac898-28da-44f2-812d-81f21615655b"
+        ]
+    },
+    {
+        "departement": "bas-rhin",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/81298f5d-c736-433b-abc6-e3daead75583",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/464bdf02-1010-4aa8-a146-06226a8695ff",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/5a5597de-11bb-49c4-8d2c-879eb605fbb8",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/ef824da3-7ddb-49f8-9a24-38c087b492b6",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/92914cef-2ec2-416e-9fa2-ab739ae02f5e",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/4b445730-9bf2-4972-ae82-bbfe36aab5c6",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/a651d3a8-6d3c-4d9a-901b-5a4cbbba6d1e",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/d6d6977f-0dcb-4fb2-9dcb-dc0ab2ee3974",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/1a6a4722-d3d9-45dc-9238-f1d6bcee92e5",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/af1131e1-c3df-4b40-b1b0-2fd158681b51",
+            "https://lannuaire.service-public.fr/grand-est/bas-rhin/ee85c5dd-dab5-4762-a105-55e7d73b9084"
+        ]
+    },
+    {
+        "departement": "haut-rhin",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/03476ae3-8c63-418d-a14a-7bbd66c90b4b",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/f7e17b3f-dc5d-436e-9707-7a7f67b9671d",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/d3329f33-0b51-4885-b816-63bbd11a5d06",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/22284100-7f03-4385-b9a1-084aff2012fb",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/496527e8-d82d-4322-b4b8-739ea1f91dff",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/2127ad52-bf78-47ff-a4e6-1e41125703a8",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/f378e5c2-0719-4a99-8a54-8ad1dfa1a7b8",
+            "https://lannuaire.service-public.fr/grand-est/haut-rhin/ab69a7d4-23c3-41f2-afbf-910156d88ab4"
+        ]
+    },
+    {
+        "departement": "vosges",
+        "urls": [
+            "https://lannuaire.service-public.fr/grand-est/vosges/aed7b076-5485-4171-8d4f-63f08608fd82",
+            "https://lannuaire.service-public.fr/grand-est/vosges/55ae9b00-9702-48ad-bb9f-7ff2a9359f08",
+            "https://lannuaire.service-public.fr/grand-est/vosges/160be33e-bbfb-4075-955d-d9d2e33093f6"
+        ]
+    }
+]
