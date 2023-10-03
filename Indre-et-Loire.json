@@ -1,0 +1,23 @@
+{
+  "departement": "Indre-et-Loire",
+  "data": [
+    {
+      "commune": "Joué-lès-Tours",
+      "adresse": "4 avenue Victor-Hugo 37300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Cyr-sur-Loire",
+      "adresse": "1 place André-Malraux 37540",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Tours",
+      "adresse": "Champ Girault 37035",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 17h00"
+    }
+  ]
+}

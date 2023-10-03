@@ -1,0 +1,77 @@
+{
+  "departement": "Val-de-Marne",
+  "data": [
+    {
+      "commune": "Alfortville",
+      "adresse": "7 place Salvador-Allende 94146",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Bonneuil-sur-Marne",
+      "adresse": "5 rue Paul-Vaillant-Couturier 94381",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Champigny-sur-Marne",
+      "adresse": "7 rue de l'Abreuvoir 94500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 16h00"
+    },
+    {
+      "commune": "Créteil",
+      "adresse": "10 avenue Georges-Duhamel 94000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 16h00"
+    },
+    {
+      "commune": "Fresnes",
+      "adresse": "28 rue Maurice-Ténine 94260",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Ivry-sur-Seine",
+      "adresse": "124 boulevard de Stalingrad 94200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 16h00"
+    },
+    {
+      "commune": "Maisons-Alfort",
+      "adresse": "36 cours des Juilliottes 94700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Nogent-sur-Marne",
+      "adresse": "70 rue des Héros-Nogentais 94736",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Orly",
+      "adresse": "3 avenue des Martyrs-de-Chateaubriand 94310",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Perreux-sur-Marne",
+      "adresse": "Place de la Libération 94170",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Villejuif",
+      "adresse": "3 passage de la Fontaine 94800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 16h00"
+    },
+    {
+      "commune": "Villiers-sur-Marne",
+      "adresse": "Boulevard de Friedberg 94350",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    }
+  ]
+}

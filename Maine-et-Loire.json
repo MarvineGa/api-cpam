@@ -1,0 +1,119 @@
+{
+  "departement": "Maine-et-Loire",
+  "data": [
+    {
+      "commune": "Roseraie",
+      "adresse": "1 rue Henri-Bergson 49000",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Hauts-de-Saint-Aubin",
+      "adresse": "1 rue du Général-Lizé 49100",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Baugé-en-Anjou",
+      "adresse": "Maison des services publics 49150",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 17h30"
+    },
+    {
+      "commune": "Beaupréau",
+      "adresse": "10 rue du Sous-Préfet-Barre 49600",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Chalonnes-sur-Loire",
+      "adresse": "4 rue des Poilus 49290",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Châteauneuf-sur-Sarthe",
+      "adresse": "2 rue des Fontaines 49330",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Chemillé-en-Anjou",
+      "adresse": "Chemillé 49120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 14h00 à 18h00"
+    },
+    {
+      "commune": "Cholet",
+      "adresse": "2 rue Saint-Éloi 49300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Doué-en-Anjou",
+      "adresse": "Locaux de la Mutualité sociale agricole 49700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Durtal",
+      "adresse": "Relais des services publics 49430",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Ingrandes",
+      "adresse": "6 rue Michel 49123",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Montreuil-Bellay",
+      "adresse": "139 rue d'Anjou 49260",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Noyant",
+      "adresse": "Maison des services publics 49490",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Saumur",
+      "adresse": "30 place Saint-Pierre 49400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Segré-en-Anjou-Bleu",
+      "adresse": "6 place de la Loge 49500",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Seiches-sur-le-Loir",
+      "adresse": "Maison des services publics 49140",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Trélazé",
+      "adresse": "251 rue Ferdinand-Vest 49802",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Vihiers",
+      "adresse": "Maison des services publics 49310",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Angers",
+      "adresse": "32 rue Louis-Gain 49937",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    }
+  ]
+}

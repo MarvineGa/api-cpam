@@ -1,0 +1,29 @@
+{
+  "departement": "Côte-d'Or",
+  "data": [
+    {
+      "commune": "Auxonne",
+      "adresse": "21 rue Carnot 21130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Beaune",
+      "adresse": "15 boulevard Saint-Jacques 21200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Montbard",
+      "adresse": "4 rue d'Abrantès 21500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Dijon",
+      "adresse": "1D boulevard de Champagne 21045",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 16h30"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "departement": "Seine-et-Marne",
+  "data": [
+    {
+      "commune": "Bussy-Saint-Georges",
+      "adresse": "2 rue Raoul-Follereau 77605",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Chelles",
+      "adresse": "1 rue du Révérend-Père-Chaillet 77500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Coulommiers",
+      "adresse": "3-5 rue Guy-Môquet 77120",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lognes",
+      "adresse": "24 rue de la Maison-Rouge 77185",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Meaux",
+      "adresse": "Avenue de la Concorde 77100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mée-sur-Seine",
+      "adresse": "399 rue Aristide-Briand 77350",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Mitry-Mory",
+      "adresse": "Avenue du Dauphiné 77290",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Montereau-Fault-Yonne",
+      "adresse": "1 avenue du Général-de-Gaulle 77130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Nemours",
+      "adresse": "40 rue des Cherelles 77140",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h00 à 14h00"
+    },
+    {
+      "commune": "Provins",
+      "adresse": "4 rue du Général-Delort 77160",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Savigny-le-Temple",
+      "adresse": "1 place François-Mitterrand 77176",
+      "tel": "0184903646",
+      "horaire": null
+    }
+  ]
+}

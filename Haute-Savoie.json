@@ -1,0 +1,41 @@
+{
+  "departement": "Haute-Savoie",
+  "data": [
+    {
+      "commune": "Bonneville",
+      "adresse": "100 rue Paul-Verlaine 74130",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Mercredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Cluses",
+      "adresse": "5 allée des Saules 74300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Meythet",
+      "adresse": "21 route de Frangy 74960",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Rumilly",
+      "adresse": "Maison de l'action sociale 74150",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Thonon-les-Bains",
+      "adresse": "Le Don-Bosco 74207",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Annecy",
+      "adresse": "2 rue Robert-Schuman 74984",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

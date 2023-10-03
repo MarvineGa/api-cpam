@@ -1,0 +1,47 @@
+{
+  "departement": "Morbihan",
+  "data": [
+    {
+      "commune": "Auray",
+      "adresse": "2 place Maréchal-Joffre 56400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lanester",
+      "adresse": "Bâtiment A 56600",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Lorient",
+      "adresse": "3 avenue Anatole-France 56100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Ploemeur",
+      "adresse": "Rue de Larmor 56270",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Ploërmel",
+      "adresse": "Boulevard des Carmes 56800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pontivy",
+      "adresse": "6 rue Roger-Cotte 56300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Vannes",
+      "adresse": "60 rue Anita-Conti 56000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

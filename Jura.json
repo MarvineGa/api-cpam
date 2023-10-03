@@ -1,0 +1,29 @@
+{
+  "departement": "Jura",
+  "data": [
+    {
+      "commune": "Champagnole",
+      "adresse": "3 rue Jules-Ferry 39303",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Dole",
+      "adresse": "43 rue Charles-Laurent-Thouverey 39108",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Claude",
+      "adresse": "62 route de Lyon 39207",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Lons-le-Saunier",
+      "adresse": "8 rue des Lilas 39031",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 13h00 à 16h00"
+    }
+  ]
+}

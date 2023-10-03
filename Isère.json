@@ -1,0 +1,83 @@
+{
+  "departement": "Isère",
+  "data": [
+    {
+      "commune": "Bourgoin-Jallieu",
+      "adresse": "2 avenue du Parc 38317",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Maginot",
+      "adresse": "27 rue André-Maginot 38045",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Tour-du-Pin",
+      "adresse": "Rue d'Italie 38351",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Jeudi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Morestel",
+      "adresse": "84 place du 8-Mai-1945 38510",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Pont-de-Chéruy",
+      "adresse": "Point conseil de proximité 38230",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Rives",
+      "adresse": "57 rue Pasteur 38140",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Roussillon",
+      "adresse": "19 rue Ambroise-Croizat 38150",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Saint-Marcellin",
+      "adresse": "2 avenue du Collège 38160",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h00 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Vienne",
+      "adresse": "1 place Saint-Pierre 38211",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Villefontaine",
+      "adresse": "Impasse Ambroise-Croizat 38090",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Vizille",
+      "adresse": "74 rue du Général-de-Gaulle 38220",
+      "tel": "0184903646",
+      "horaire": "Du Jeudi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Voiron",
+      "adresse": "Rue Racine 38511",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Grenoble",
+      "adresse": "2 rue des Alliés 38045",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "departement": "Var",
+  "data": [
+    {
+      "commune": "Brignoles",
+      "adresse": "Rue des Déportés 83170",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Draguignan",
+      "adresse": "24 boulevard Carnot 83300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Fréjus",
+      "adresse": "Le Sagittaire 83600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Hyères",
+      "adresse": "Place Théodore-Lefebvre 83400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Seyne-sur-Mer",
+      "adresse": "ZUP de Berthe 83500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Rode",
+      "adresse": "ZUP de la Rode 83100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "departement": "Tarn",
+  "data": [
+    {
+      "commune": "Gambetta",
+      "adresse": "197 avenue Gambetta 81000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Carmaux",
+      "adresse": "2 rue de l'Écluse 81400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Castres",
+      "adresse": "2 boulevard Carnot 81100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Gaillac",
+      "adresse": "48 rue de la Madeleine 81600",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Graulhet",
+      "adresse": "3 rue du 8-Mai 81300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mazamet",
+      "adresse": "Quai Charles-Cazenave 81200",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

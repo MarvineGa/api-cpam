@@ -1,0 +1,11 @@
+{
+  "departement": "Creuse",
+  "data": [
+    {
+      "commune": "Guéret",
+      "adresse": "Rue Marcel-Brunet 23000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    }
+  ]
+}

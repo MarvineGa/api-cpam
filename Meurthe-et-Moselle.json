@@ -1,0 +1,59 @@
+{
+  "departement": "Meurthe-et-Moselle",
+  "data": [
+    {
+      "commune": "Essey-lès-Nancy",
+      "adresse": "8 rue des Maillys 54270",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Homécourt",
+      "adresse": "137 avenue de la République 54310",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Longwy",
+      "adresse": "3 avenue Raymond-Poincaré 54406",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Lunéville",
+      "adresse": "1-3 rue Girardet 54300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 07h30 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Pont-à-Mousson",
+      "adresse": "708 rue du Bois-le-Prêtre 54700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Toul",
+      "adresse": "Rue Balland 54209",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Villers-lès-Nancy",
+      "adresse": "320 avenue André-Malraux 54601",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 15h00"
+    },
+    {
+      "commune": "Villerupt",
+      "adresse": "39 rue Carnot 54190",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Nancy",
+      "adresse": "9 boulevard Joffre 54047",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h00 à 16h30"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "departement": "Somme",
+  "data": [
+    {
+      "commune": "Abbeville",
+      "adresse": "25 rue Notre-Dame 80106",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Albert",
+      "adresse": "8 rue Robert-Solente 80303",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Atrium",
+      "adresse": "39 avenue de la Paix 80000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h15"
+    },
+    {
+      "commune": "Étouvie",
+      "adresse": "Les Coursives 80034",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 13h30 à 17h00"
+    },
+    {
+      "commune": "Doullens",
+      "adresse": "16 rue Georges-Clemenceau 80600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Flixecourt",
+      "adresse": "5 rue de la Catiche 80420",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Friville-Escarbotin",
+      "adresse": "71 rue Voltaire 80130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Ham",
+      "adresse": "12 rue Louis-Braille 80400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Montdidier",
+      "adresse": "41 rue Jean-Jaurès 80500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Péronne",
+      "adresse": "Rue Jules-Ferry 80201",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Rue",
+      "adresse": "Maison de services au public 80120",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Amiens",
+      "adresse": "8 place Louis-Sellier 80021",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    }
+  ]
+}

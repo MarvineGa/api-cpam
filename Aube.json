@@ -1,0 +1,35 @@
+{
+  "departement": "Aube",
+  "data": [
+    {
+      "commune": "Bar-sur-Aube",
+      "adresse": "144 route Nationale 10200",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h15 à 12h15\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Chapelle-Saint-Luc",
+      "adresse": "14 rue Bernard-Pallissy 10600",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Romilly-sur-Seine",
+      "adresse": "18 place des Martyrs 10100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Chartreux",
+      "adresse": "56 avenue des Lombards 10000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Troyes",
+      "adresse": "113 rue Étienne-Pédron 10030",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 16h30"
+    }
+  ]
+}

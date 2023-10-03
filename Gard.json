@@ -1,0 +1,77 @@
+{
+  "departement": "Gard",
+  "data": [
+    {
+      "commune": "Aigues-Mortes",
+      "adresse": "24 rue Nicolas-Lasserre 30220",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 13h30 à 16h00"
+    },
+    {
+      "commune": "Alès",
+      "adresse": "10 quai Boissier-de-Sauvages 30100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Bagnols-sur-Cèze",
+      "adresse": "2 avenue Léon-Blum 30205",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Beaucaire",
+      "adresse": "1145 chemin Clapas-de-Cornut 30300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h15\nde 13h15 à 16h00"
+    },
+    {
+      "commune": "Grand-Combe",
+      "adresse": "Place de l'Arboux 30110",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h00"
+    },
+    {
+      "commune": "Chemin-Bas-Avignon",
+      "adresse": "245 avenue Bir-Hakeim 30002",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Mercredi : de 08h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Gilles",
+      "adresse": "Maison des services publics 30800",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h30 à 16h00"
+    },
+    {
+      "commune": "Uzès",
+      "adresse": "Place des Cordeliers 30700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Vauvert",
+      "adresse": "168 rue Montcalm 30600",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Vigan",
+      "adresse": "11 rue Pierre-Gorlier 30120",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h30 à 12h15\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Villeneuve-les-Avignon",
+      "adresse": "1 allée Pierre-Louis-Loisil 30400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 16h00"
+    },
+    {
+      "commune": "Nîmes",
+      "adresse": "14 rue du Cirque-Romain 30921",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    }
+  ]
+}

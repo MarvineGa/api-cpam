@@ -1,0 +1,35 @@
+{
+  "departement": "Ardèche",
+  "data": [
+    {
+      "commune": "Annonay",
+      "adresse": "27 avenue de l'Europe 07100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Aubenas",
+      "adresse": "56 boulevard du Maréchal-Leclerc 07200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Teil",
+      "adresse": "15 rue du Travail 07400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Tournon-sur-Rhône",
+      "adresse": "18 place Rampon 07300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Privas",
+      "adresse": "6 avenue de l'Europe-Unie 07000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    }
+  ]
+}

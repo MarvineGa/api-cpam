@@ -1,0 +1,35 @@
+{
+  "departement": "Puy-de-Dôme",
+  "data": [
+    {
+      "commune": "Ambert",
+      "adresse": "1 place du Livradois 63600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Issoire",
+      "adresse": "28 rue Antonin-Gaillard 63506",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Riom",
+      "adresse": "2 avenue de Chatel 63205",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Thiers",
+      "adresse": "20 rue des Docteurs-Dumas 63300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Clermont-Ferrand",
+      "adresse": "46 rue du Clos-Four 63031",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    }
+  ]
+}

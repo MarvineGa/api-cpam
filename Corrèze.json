@@ -1,0 +1,23 @@
+{
+  "departement": "Corrèze",
+  "data": [
+    {
+      "commune": "Brive-la-Gaillarde",
+      "adresse": "17 avenue Alsace-Lorraine 19111",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Ussel",
+      "adresse": "20 rue du Général-Anthony-Prouzergue 19200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Tulle",
+      "adresse": "6 rue Souham 19033",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

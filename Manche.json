@@ -1,0 +1,59 @@
+{
+  "departement": "Manche",
+  "data": [
+    {
+      "commune": "Avranches",
+      "adresse": "61 boulevard Amiral-Gauchet 50300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Carentan",
+      "adresse": "28 rue de la 101e-Airborne 50500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Cherbourg-Octeville",
+      "adresse": "33 rue Grande-Vallée 50100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Coutances",
+      "adresse": "103 rue Geoffroy-de-Montbray 50200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Granville",
+      "adresse": "23 rue du Vieux-Moulin 50400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Haye-du-Puits",
+      "adresse": "Pôle administratif de La Haye 50250",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Hilaire-du-Harcouët",
+      "adresse": "65 place Louis-Delaporte 50600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Valognes",
+      "adresse": "22 rue de Poterie 50700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Lô",
+      "adresse": "Montée du Bois-André 50012",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

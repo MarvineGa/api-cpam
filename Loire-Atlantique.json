@@ -1,0 +1,77 @@
+{
+  "departement": "Loire-Atlantique",
+  "data": [
+    {
+      "commune": "Ancenis",
+      "adresse": "1 rue Docteur-Bousseau 44150",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Blain",
+      "adresse": "17 rue Waldeck-Rousseau 44130",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Jeudi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Châteaubriant",
+      "adresse": "4 rue Gabriel-de-Latour 44146",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Clisson",
+      "adresse": "2 rue Docteur-Doussain 44190",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Guémené-Penfao",
+      "adresse": "Maison des services 44290",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Machecoul",
+      "adresse": "16 rue Alexandre-Riou 44270",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Beaulieu",
+      "adresse": "9 rue Gaëtan-Rondeau 44958",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Bretagne",
+      "adresse": "1 rue du Président-Édouard-Herriot 44000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Dervallières",
+      "adresse": "21 rue Charles-Roger 44100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Rezé",
+      "adresse": "11 allée de Touraine 44400",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Herblain",
+      "adresse": "15 rue d'Arras 44800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Nazaire",
+      "adresse": "28 avenue Suzanne-Lenglen 44600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    }
+  ]
+}

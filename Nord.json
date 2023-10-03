@@ -1,0 +1,227 @@
+{
+  "departement": "Nord",
+  "data": [
+    {
+      "commune": "Lille",
+      "adresse": "2 rue d'Iéna 59000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 07h45 à 12h00\nde 13h00 à 16h45"
+    },
+    {
+      "commune": "Armentières",
+      "adresse": "6 rue des Nieulles 59280",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h15\nde 13h15 à 17h00"
+    },
+    {
+      "commune": "Bailleul",
+      "adresse": "41 rue d'Ypres 59270",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Bourbourg",
+      "adresse": "Avenue François-Mitterrand 59630",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Samedi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Grande-Synthe",
+      "adresse": "4 place François-Mitterrand 59792",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h15\nde 14h00 à 16h00"
+    },
+    {
+      "commune": "Hazebrouck",
+      "adresse": "6 rue du Rivage 59190",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h15 à 12h15\nde 14h00 à 16h00"
+    },
+    {
+      "commune": "Merville",
+      "adresse": "11 rue des Capucins 59660",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Wormhout",
+      "adresse": "62 place du Général-de-Gaulle 59470",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h15 à 12h15\nde 14h00 à 16h00"
+    },
+    {
+      "commune": "Dunkerque",
+      "adresse": "2 rue de la Batellerie 59386",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Aulnoye-Aymeries",
+      "adresse": "Hôtel de Ville 59620",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h15 à 17h00"
+    },
+    {
+      "commune": "Avesnes-sur-Helpe",
+      "adresse": "2 rue Vauban 59440",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Cambrai",
+      "adresse": "10 rue Saint-Lazare 59408",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Caudry",
+      "adresse": "6 rue Léon-Gambetta 59540",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Condé-sur-l'Escaut",
+      "adresse": "2 place Rombault 59163",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Denain",
+      "adresse": "76 rue du Président-Allende 59220",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Fourmies",
+      "adresse": "Maison de santé de Fourmies 59610",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Jeumont",
+      "adresse": "Boulevard de Lessines 59460",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Quesnoy",
+      "adresse": "23 rue Chevray 59530",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Maubeuge",
+      "adresse": "24 rue de la Croix 59607",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Amand-les-Eaux",
+      "adresse": "24 rue Louise-de-Bettignies 59230",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Valenciennes",
+      "adresse": "100 rue du Rempart 59321",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Comines",
+      "adresse": "1 rue des Maires-Lambin 59560",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 14h00 à 16h15"
+    },
+    {
+      "commune": "Faches-Thumesnil",
+      "adresse": "Maison des Ainés 59155",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Bassée",
+      "adresse": "Maison des services 59480",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 14h00 à 16h15"
+    },
+    {
+      "commune": "Marquette-lez-Lille",
+      "adresse": "11 place du Général-de-Gaulle 59520",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Orchies",
+      "adresse": "Mairie 59310",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h45 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Seclin",
+      "adresse": "Mairie 59113",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Somain",
+      "adresse": "49 rue Suzanne-Lanoy 59490",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h30 à 12h15\nde 13h45 à 16h30"
+    },
+    {
+      "commune": "Thumeries",
+      "adresse": "Mairie 59239",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 11h45\nde 13h45 à 16h30"
+    },
+    {
+      "commune": "AME",
+      "adresse": "125 rue Saint-Sulpice 59508",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 07h45 à 12h00\nde 13h00 à 16h45"
+    },
+    {
+      "commune": "AME",
+      "adresse": "2 rue d'Iéna 59895",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 07h45 à 12h00\nde 13h00 à 16h45"
+    },
+    {
+      "commune": "Solesmes",
+      "adresse": "L'Étape 59730",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 17h00"
+    },
+    {
+      "commune": "Halluin",
+      "adresse": "2 rue du 11-Novembre 59250",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Roubaix",
+      "adresse": "6 rue Rémy-Cogghe 59100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Villeneuve-Ascq",
+      "adresse": "51 boulevard de Valmy 59650",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Wasquehal",
+      "adresse": "Mairie annexe Wasquehal 59290",
+      "tel": "0184903646",
+      "horaire": "Du Jeudi au Vendredi : de 08h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Tourcoing",
+      "adresse": "2 place Sébastopol 59208",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 13h30 à 16h30"
+    }
+  ]
+}

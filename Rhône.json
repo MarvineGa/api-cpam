@@ -1,0 +1,89 @@
+{
+  "departement": "Rhône",
+  "data": [
+    {
+      "commune": "Bron",
+      "adresse": "Points d'information et de médiation multi-services Lyon Métropole 69500",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 17h30"
+    },
+    {
+      "commune": "Givors",
+      "adresse": "6 rue Jacques-Prévert 69700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "arrondissement",
+      "adresse": "12 rue d'Aubigny 69003",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "arrondissement",
+      "adresse": "5 place Jean-Macé 69007",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "arrondissement",
+      "adresse": "Maison de services au public de Lyon 8e Etats-Unis 69008",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 09h00 à 12h00\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "arrondissement",
+      "adresse": "37 rue Laure-Diebold 69009",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Meyzieu",
+      "adresse": "20 rue Lucien-Buisson 69330",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Oullins",
+      "adresse": "4 rue Président-Édouard-Herriot 69600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Rillieux-la-Pape",
+      "adresse": "62 avenue de l'Europe 69140",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Priest",
+      "adresse": "8 route d'Heyrieux 69800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vaulx-en-Velin",
+      "adresse": "1 avenue Salvador-Allende 69120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vénissieux",
+      "adresse": "21 rue Jules-Ferry 69200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Villefranche-sur-Saône",
+      "adresse": "150 boulevard Gambetta 69400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Villeurbanne",
+      "adresse": "276 cours Émile-Zola 69100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

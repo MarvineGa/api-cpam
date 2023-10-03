@@ -1,0 +1,77 @@
+{
+  "departement": "Pas-de-Calais",
+  "data": [
+    {
+      "commune": "Béthune",
+      "adresse": "54 rue Gaston-Defferre 62418",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Bruay-la-Buissière",
+      "adresse": "57 rue Henri-Cadot 62700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Hénin-Beaumont",
+      "adresse": "42 rue Jacques-Bingen 62110",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lens",
+      "adresse": "158 avenue Van-Pelt 62309",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lillers",
+      "adresse": "7 rue Ambroise-Croizat 62190",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Saint-Pol-sur-Ternoise",
+      "adresse": "12 Rue du 8 mai 1945 62130",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Arras",
+      "adresse": "11 boulevard du Président-Allende 62014",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 17h00"
+    },
+    {
+      "commune": "Aire-sur-la-Lys",
+      "adresse": "9 boulevard du Général-de-Gaulle 62120",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h15\nde 13h15 à 16h00"
+    },
+    {
+      "commune": "Boulogne-sur-Mer",
+      "adresse": "47 boulevard Mariette 62200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Calais",
+      "adresse": "35 rue Descartes 62108",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Saint-Omer",
+      "adresse": "Îlot de l'Écu d'Artois 62500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Calais",
+      "adresse": "Centre commercial Cœur de Vie 62100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h15\nde 13h15 à 16h30"
+    }
+  ]
+}

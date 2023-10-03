@@ -1,0 +1,65 @@
+{
+  "departement": "Haute-Vienne",
+  "data": [
+    {
+      "commune": "Ambazac",
+      "adresse": "2 place de la Gare 87240",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Bellac",
+      "adresse": "14 place de la République 87300",
+      "tel": "0184903646",
+      "horaire": "Du Jeudi au Vendredi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Châlus",
+      "adresse": "28 avenue François-Mitterrand 87230",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 14h30 à 16h30"
+    },
+    {
+      "commune": "Eymoutiers",
+      "adresse": "Mairie 87120",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Nexon",
+      "adresse": "5 rue Jean-Jacques-Rousseau 87800",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Germain-les-Belles",
+      "adresse": "1 place de l'Église 87380",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Vendredi : de 09h00 à 12h00\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Junien",
+      "adresse": "22 place Auguste-Roche 87200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Saint-Léonard-de-Noblat",
+      "adresse": "Maison des services Simone Veil 87400",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Saint-Yrieix-la-Perche",
+      "adresse": "Maison de la Communauté de communes 87500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Limoges",
+      "adresse": "22 avenue Jean-Gagnant 87037",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

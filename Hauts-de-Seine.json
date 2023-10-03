@@ -1,0 +1,71 @@
+{
+  "departement": "Hauts-de-Seine",
+  "data": [
+    {
+      "commune": "Asnières-sur-Seine",
+      "adresse": "22 rue des Mourinoux 92601",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Bagneux",
+      "adresse": "3 rue des Meuniers 92223",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Boulogne-Billancourt",
+      "adresse": "29 rue des Longs-Prés 92100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Clichy",
+      "adresse": "19 rue Villeneuve 92111",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Colombes",
+      "adresse": "87 rue Saint-Denis 92700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Courbevoie",
+      "adresse": "2 boulevard Aristide-Briand 92401",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Gennevilliers",
+      "adresse": "27 avenue de la Libération 92237",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Meudon",
+      "adresse": "5 rue Georges-Millandy 92365",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Montrouge",
+      "adresse": "1 rue d'Arcueil 92120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Nanterre",
+      "adresse": "130 rue du 8-Mai-1945 92021",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h45\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Rueil-Malmaison",
+      "adresse": "2 place Jean-Jaurès 92500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

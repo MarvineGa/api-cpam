@@ -1,0 +1,35 @@
+{
+  "departement": "Ardennes",
+  "data": [
+    {
+      "commune": "Givet",
+      "adresse": "12 quai des Fours 08600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Monthermé",
+      "adresse": "46 rue Pasteur 08800",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Rethel",
+      "adresse": "9 rue Bastonnier 08300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Sedan",
+      "adresse": "3 rue de Mirbritz 08205",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Charleville-Mézières",
+      "adresse": "14 avenue Georges-Corneau 08101",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

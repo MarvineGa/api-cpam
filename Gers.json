@@ -1,0 +1,35 @@
+{
+  "departement": "Gers",
+  "data": [
+    {
+      "commune": "Condom",
+      "adresse": "11 boulevard Monplaisir 32100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "L'Isle-Jourdain",
+      "adresse": "Avenue Courde 32600",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Lectoure",
+      "adresse": "2 cours Gambetta 32700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Nogaro",
+      "adresse": "Maison départementale des solidarités 32110",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Auch",
+      "adresse": "11 rue de Châteaudun 32012",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    }
+  ]
+}

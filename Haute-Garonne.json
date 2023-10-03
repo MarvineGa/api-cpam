@@ -1,0 +1,77 @@
+{
+  "departement": "Haute-Garonne",
+  "data": [
+    {
+      "commune": "Blagnac",
+      "adresse": "Avenue des Pins 31078",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Colomiers",
+      "adresse": "1 place d'Occitanie 31770",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Muret",
+      "adresse": "3 square des Combattants-d'Afrique-du-Nord 31600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Plaisance-du-Touch",
+      "adresse": "7 rue des Tilleuls 31830",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Portet-sur-Garonne",
+      "adresse": "1 avenue Pierre-de-Coubertin 31120",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Revel",
+      "adresse": "Boulevard Jean-Jaurès 31250",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Saint-Alban",
+      "adresse": "1 rue Salgaréda 31140",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Gaudens",
+      "adresse": "2 rue Émile-Zola 31807",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Jean",
+      "adresse": "61 chemin Verdale 31240",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Orens",
+      "adresse": "8 rue du Commerce 31650",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Bagatelle",
+      "adresse": "33 rue du Lot 31100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Centre",
+      "adresse": "3 boulevard du Professeur-Léopold-Escande 31093",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    }
+  ]
+}

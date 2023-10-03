@@ -1,0 +1,23 @@
+{
+  "departement": "Corse-du-Sud",
+  "data": [
+    {
+      "commune": "Porto-Vecchio",
+      "adresse": "Lieu-dit Mazetta 20137",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Sartène",
+      "adresse": "Quartier Joseph-Tramoni 20100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Ajaccio",
+      "adresse": "Les Padule 20702",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 07h45 à 15h45"
+    }
+  ]
+}

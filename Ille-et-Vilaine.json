@@ -1,0 +1,47 @@
+{
+  "departement": "Ille-et-Vilaine",
+  "data": [
+    {
+      "commune": "Fougères",
+      "adresse": "3 avenue François-Mitterrand 35305",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Redon",
+      "adresse": "2 rue du Docteur-François-Lagrée 35601",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Fréville",
+      "adresse": "218 rue de Châtillon 35045",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Maurepas",
+      "adresse": "11 B place du Gros-Chêne 35018",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Malo",
+      "adresse": "10 avenue Jean-Jaurès 35411",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vitré",
+      "adresse": "16 rue du 70e-Régiment-d'Infanterie 35500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Rennes",
+      "adresse": "2 place de la Gare 35024",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

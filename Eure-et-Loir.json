@@ -1,0 +1,35 @@
+{
+  "departement": "Eure-et-Loir",
+  "data": [
+    {
+      "commune": "Chartres",
+      "adresse": "11 rue du Docteur-André-Haye 28034",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    },
+    {
+      "commune": "Châteaudun",
+      "adresse": "14 rue de la Madeleine 28200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Dreux",
+      "adresse": "7 rue des Capucins 28100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    },
+    {
+      "commune": "Lucé",
+      "adresse": "27 rue d'Aquitaine 28110",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Nogent-le-Rotrou",
+      "adresse": "45 rue Saint-Laurent 28400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

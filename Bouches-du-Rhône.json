@@ -1,0 +1,113 @@
+{
+  "departement": "Bouches-du-Rhône",
+  "data": [
+    {
+      "commune": "Aix-en-Provence",
+      "adresse": "Le Mansard 13097",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Arles",
+      "adresse": "Avenue des Alyscamps 13637",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Défensions",
+      "adresse": "ZAC Les Défensions 13400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h30"
+    },
+    {
+      "commune": "Gardanne",
+      "adresse": "175 boulevard Pont-de-Peton 13120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Istres",
+      "adresse": "ZAC de la Salle 13800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Ciotat",
+      "adresse": "10 passage Gamet 13600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Marignane",
+      "adresse": "51 avenue Marius-Ruinat 13721",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Burel",
+      "adresse": "55 boulevard Burel 13311",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Jacquand",
+      "adresse": "19 boulevard Jacquand 13008",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h30"
+    },
+    {
+      "commune": "arrondissement",
+      "adresse": "164 la Canebière 13001",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Chartreux",
+      "adresse": "6 rue Alexis-Carrel 13234",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Saint-Louis",
+      "adresse": "458 rue de Lyon 13914",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h30"
+    },
+    {
+      "commune": "Martigues",
+      "adresse": "Chemin de Paradis 13695",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Plan-de-Cuques",
+      "adresse": "Avenue Mail-Charles-de-Gaulle 13380",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Port-de-Bouc",
+      "adresse": "Rue de la République 13528",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Port-Saint-Louis-du-Rhône",
+      "adresse": "4 rue Jean-Rouget 13230",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Salon-de-Provence",
+      "adresse": "130 boulevard Aristide-Briand 13300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Tarascon",
+      "adresse": "Avenue Pierre-Sémard 13152",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h00 à 12h30\nde 13h30 à 16h00"
+    }
+  ]
+}

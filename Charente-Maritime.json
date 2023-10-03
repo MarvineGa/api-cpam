@@ -1,0 +1,41 @@
+{
+  "departement": "Charente-Maritime",
+  "data": [
+    {
+      "commune": "Jonzac",
+      "adresse": "1 place du 8-Mai-1945 17500",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Mireuil",
+      "adresse": "2 square de la Passerelle 17000",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Rochefort",
+      "adresse": "5 avenue Maurice-Chupin 17300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 17h00"
+    },
+    {
+      "commune": "Saintes",
+      "adresse": "4 rue René-Cassin 17114",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Jean-Angély",
+      "adresse": "3 rue de Dampierre 17400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Rochelle",
+      "adresse": "55 rue de Suède 17014",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 17h00"
+    }
+  ]
+}

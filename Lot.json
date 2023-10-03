@@ -1,0 +1,17 @@
+{
+  "departement": "Lot",
+  "data": [
+    {
+      "commune": "Figeac",
+      "adresse": "Place du 12-Mai 46100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Cahors",
+      "adresse": "238 rue Hautesserre 46015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

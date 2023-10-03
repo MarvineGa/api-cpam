@@ -1,0 +1,35 @@
+{
+  "departement": "Pyrénées-Orientales",
+  "data": [
+    {
+      "commune": "Amélie-les-Bains-Palalda",
+      "adresse": "5 rue des Thermes 66110",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Argelès-sur-Mer",
+      "adresse": "Mairie 66700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Perpignan",
+      "adresse": "20 avenue du Languedoc 66000",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Prades",
+      "adresse": "32 avenue Pasteur 66500",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Perpignan",
+      "adresse": "2 rue des Remparts-Saint-Mathieu 66013",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 14h00 à 16h30"
+    }
+  ]
+}

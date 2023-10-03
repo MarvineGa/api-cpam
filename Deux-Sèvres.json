@@ -1,0 +1,29 @@
+{
+  "departement": "Deux-Sèvres",
+  "data": [
+    {
+      "commune": "Parthenay",
+      "adresse": "13 rue Brossard 79205",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Sauzé-Vaussais",
+      "adresse": "40 Grand'Rue 79190",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Thouars",
+      "adresse": "Caisse d'allocations familiales 79100",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Jeudi : de 09h00 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Niort",
+      "adresse": "Bessines 79041",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 13h00\nde 14h00 à 16h30"
+    }
+  ]
+}

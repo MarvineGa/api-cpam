@@ -1,0 +1,41 @@
+{
+  "departement": "Vendée",
+  "data": [
+    {
+      "commune": "Challans",
+      "adresse": "85 boulevard Albert-Schweitzer 85300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Fontenay-le-Comte",
+      "adresse": "2 boulevard Duguesclin 85200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Herbiers",
+      "adresse": "5 rue Château-Gaillard 85500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Luçon",
+      "adresse": "23 bis rue Jean Gabin 85400",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Sables-Olonne",
+      "adresse": "20 rue Félix-Faure 85100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Roche-sur-Yon",
+      "adresse": "61 rue Alain 85931",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

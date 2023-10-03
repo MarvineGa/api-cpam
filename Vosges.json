@@ -1,0 +1,23 @@
+{
+  "departement": "Vosges",
+  "data": [
+    {
+      "commune": "Remiremont",
+      "adresse": "5 place du Batardeau 88200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Dié-des-Vosges",
+      "adresse": "49 rue de la Bolle 88188",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Épinal",
+      "adresse": "14 rue de la Clé-d'Or 88015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

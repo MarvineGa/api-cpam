@@ -1,0 +1,65 @@
+{
+  "departement": "Vaucluse",
+  "data": [
+    {
+      "commune": "Apt",
+      "adresse": "Avenue Philippe-de-Girard 84400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Rocade",
+      "adresse": "7 rue François-1er 84043",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Bollène",
+      "adresse": "177 cours de la Résistance 84500",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Carpentras",
+      "adresse": "217 avenue du Comtat-Venaissin 84200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Cavaillon",
+      "adresse": "884 avenue du Général-de-Gaulle 84300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Orange",
+      "adresse": "Allée Ambroise-Croizat 84100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Pertuis",
+      "adresse": "ZAC de Saint-Martin les Bertranes 84120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Sorgues",
+      "adresse": "78 avenue Cessac 84043",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Vaison-la-Romaine",
+      "adresse": "6 cours Taulignan 84110",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Valréas",
+      "adresse": "Maison de service au public 84600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h00\nde 13h30 à 16h00"
+    }
+  ]
+}

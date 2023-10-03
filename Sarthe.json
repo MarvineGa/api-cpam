@@ -1,0 +1,71 @@
+{
+  "departement": "Sarthe",
+  "data": [
+    {
+      "commune": "Allonnes",
+      "adresse": "59 avenue Charles-de-Gaulle 72700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Mans",
+      "adresse": "Hall Fontenoy 72000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Château-du-Loir",
+      "adresse": "La Ménagerie 72500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h15 à 12h15\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Ferté-Bernard",
+      "adresse": "15 rue Denfert-Rochereau 72400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Flèche",
+      "adresse": "5 allée de la Girouette 72200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Lude",
+      "adresse": "Maison de service au public 72800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 14h00 à 17h30"
+    },
+    {
+      "commune": "Mamers",
+      "adresse": "7 rue Albert-Roullée 72600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Sablé-sur-Sarthe",
+      "adresse": "10 avenue des Bazinières 72300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Calais",
+      "adresse": "10 place de l'Hôtel-de-Ville 72120",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 14h00 à 17h00"
+    },
+    {
+      "commune": "Sillé-le-Guillaume",
+      "adresse": "30 rue du Docteur-Touchard 72140",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Mans",
+      "adresse": "178 avenue Bollée 72033",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h15 à 12h15\nde 13h30 à 17h00"
+    }
+  ]
+}

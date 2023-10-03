@@ -1,0 +1,59 @@
+{
+  "departement": "Paris",
+  "data": [
+    {
+      "commune": "Batignolles",
+      "adresse": "28 rue Boursault 75017",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Clignancourt",
+      "adresse": "37 rue Belliard 75018",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Flandre",
+      "adresse": "74 rue Archereau 75019",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Folie-Méricourt",
+      "adresse": "1 rue de la Pierre-Levée 75011",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Olympiades",
+      "adresse": "20 avenue d'Ivry 75013",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Plaisance",
+      "adresse": "19 rue Didot 75014",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Blaise",
+      "adresse": "98 rue de Lagny 75020",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Lambert",
+      "adresse": "3 place Adolphe-Chérioux 75015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Martin",
+      "adresse": "2 impasse Boutron 75010",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h00"
+    }
+  ]
+}

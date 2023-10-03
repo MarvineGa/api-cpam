@@ -1,0 +1,77 @@
+{
+  "departement": "Seine-Saint-Denis",
+  "data": [
+    {
+      "commune": "Aulnay-sous-Bois",
+      "adresse": "8 rue Marcel-Sembat 93600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Épinay-sur-Seine",
+      "adresse": "26 rue Quétigny 93800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Courneuve",
+      "adresse": "121 avenue Paul-Vaillant-Couturier 93120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Montfermeil",
+      "adresse": "Maison des services publics 93370",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 11h45\nde 13h30 à 16h45"
+    },
+    {
+      "commune": "Montreuil",
+      "adresse": "41 avenue du Président-Wilson 93100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Noisy-le-Grand",
+      "adresse": "7 allée Louis-Aragon 93160",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Noisy-le-Sec",
+      "adresse": "3 avenue Georges-Clemenceau 93130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Raincy",
+      "adresse": "44 avenue Thiers 93340",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Saint-Denis",
+      "adresse": "31 rue du Landy 93200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Sevran",
+      "adresse": "8 rue Lucien-Sportiss 93270",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Stains",
+      "adresse": "Rue Jean-Chardavoine 93240",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Tremblay-en-France",
+      "adresse": "2 rue Léon-Tolstoï 93290",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    }
+  ]
+}

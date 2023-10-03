@@ -1,0 +1,35 @@
+{
+  "departement": "Hautes-Pyrénées",
+  "data": [
+    {
+      "commune": "Bagnères-de-Bigorre",
+      "adresse": "30 avenue Géruzet 65200",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Lannemezan",
+      "adresse": "88 rue Tailhade 65300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Lourdes",
+      "adresse": "22 avenue Joffre 65100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Vic-en-Bigorre",
+      "adresse": "21 place du Corps-Franc-Pommiès 65500",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Tarbes",
+      "adresse": "8 place au Bois 65021",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 14h00 à 17h00"
+    }
+  ]
+}

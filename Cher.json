@@ -1,0 +1,23 @@
+{
+  "departement": "Cher",
+  "data": [
+    {
+      "commune": "Saint-Amand-Montrond",
+      "adresse": "7 rue Henri-Barbusse 18200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vierzon",
+      "adresse": "Place de la Résistance 18100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Bourges",
+      "adresse": "21 boulevard de la République 18030",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

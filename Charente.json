@@ -1,0 +1,59 @@
+{
+  "departement": "Charente",
+  "data": [
+    {
+      "commune": "Aigre",
+      "adresse": "Maison de services au public 16140",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Barbezieux-Saint-Hilaire",
+      "adresse": "1 rampe des Mobiles 16300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h30\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Chabanais",
+      "adresse": "2 route d'Angoulême 16150",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Vendredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Chalais",
+      "adresse": "2 rue Jean-Remon 16210",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h15 à 12h30\nde 13h30 à 15h00"
+    },
+    {
+      "commune": "Cognac",
+      "adresse": "4 rue de la Pyramide 16100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    },
+    {
+      "commune": "Confolens",
+      "adresse": "Place Henri-Coursaguet 16500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Mansle-les-Fontaines",
+      "adresse": "21 rue Martin 16230",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Ruffec",
+      "adresse": "Place Aristide-Briand 16700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 15h15"
+    },
+    {
+      "commune": "Angoulême",
+      "adresse": "30 boulevard de Bury 16910",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h00"
+    }
+  ]
+}

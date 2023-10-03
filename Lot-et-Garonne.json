@@ -1,0 +1,23 @@
+{
+  "departement": "Lot-et-Garonne",
+  "data": [
+    {
+      "commune": "Marmande",
+      "adresse": "13 rue du Docteur-Courret 47200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h30"
+    },
+    {
+      "commune": "Villeneuve-sur-Lot",
+      "adresse": "107 avenue Jean-Claude-Cayrel 47300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h30"
+    },
+    {
+      "commune": "Agen",
+      "adresse": "2 rue Diderot 47914",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 17h30"
+    }
+  ]
+}

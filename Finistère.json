@@ -1,0 +1,95 @@
+{
+  "departement": "Finistère",
+  "data": [
+    {
+      "commune": "Marc-Sangnier",
+      "adresse": "8 square Marc-Sangnier 29200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Carhaix-Plouguer",
+      "adresse": "Place Tour-d'Auvergne 29270",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Châteaulin",
+      "adresse": "33 quai Robert Alba 29150",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Concarneau",
+      "adresse": "Kerandon 29900",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Crozon",
+      "adresse": "Place du 19-Mars-1962 29160",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Douarnenez",
+      "adresse": "2 rue Léon-Blum 29100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Landerneau",
+      "adresse": "Maison de services au public 29800",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Landivisiau",
+      "adresse": "36 rue Georges-Clémenceau 29400",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Mercredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lesneven",
+      "adresse": "12 boulevard des Frères-Lumière 29260",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Morlaix",
+      "adresse": "36 rue de Brest 29600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pont-l'Abbé",
+      "adresse": "Rue du Petit-Train 29120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Quimper",
+      "adresse": "18 rue de la République 29192",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Quimperlé",
+      "adresse": "1 Rue des Gorgennes 29300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00"
+    },
+    {
+      "commune": "Saint-Pol-de-Léon",
+      "adresse": "Maison de services 29250",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Bellevue",
+      "adresse": "1 rue de Savoie 29282",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    }
+  ]
+}

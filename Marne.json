@@ -1,0 +1,29 @@
+{
+  "departement": "Marne",
+  "data": [
+    {
+      "commune": "Châlons-en-Champagne",
+      "adresse": "2 allée Saint-Jean 51000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Épernay",
+      "adresse": "5 rue Jean-Chandon-Moët 51200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Vitry-le-François",
+      "adresse": "18 rue Marabais 51300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Reims",
+      "adresse": "14 rue du Ruisselet 51086",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    }
+  ]
+}

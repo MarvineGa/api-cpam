@@ -1,0 +1,89 @@
+{
+  "departement": "Dordogne",
+  "data": [
+    {
+      "commune": "Bergerac",
+      "adresse": "2 boulevard du 8-Mai-1945 24100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Bugue",
+      "adresse": "Rue du Jardin-Public 24260",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Hautefort",
+      "adresse": "Place Eugène-le-Roy 24390",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Roche-Chalais",
+      "adresse": "Place Émile-Cheylud 24490",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Montpon-Ménestérol",
+      "adresse": "Permanence au sein de France Services Isle Double Landais 24700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Mussidan",
+      "adresse": "80 rue de la Libération 24400",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Nontron",
+      "adresse": "12 boulevard Gambetta 24300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Ribérac",
+      "adresse": "Route de Périgueux 24600",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Saint-Astier",
+      "adresse": "Rue de l'Amiral-Courbet 24110",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Sarlat-la-Caneda",
+      "adresse": "12 avenue du Colonel-Kauffmann 24200",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Mercredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Terrasson-Lavilledieu",
+      "adresse": "1 place Yvon-Delbos 24120",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Thenon",
+      "adresse": "Place de la Mairie 24210",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 14h00 à 16h00"
+    },
+    {
+      "commune": "Thiviers",
+      "adresse": "Rue Henri-Saumande 24800",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Périgueux",
+      "adresse": "50 rue Claude-Bernard 24000",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h00 à 17h00"
+    }
+  ]
+}

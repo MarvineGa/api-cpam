@@ -1,0 +1,53 @@
+{
+  "departement": "Moselle",
+  "data": [
+    {
+      "commune": "Château-Salins",
+      "adresse": "6 rue de Metz 57170",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Forbach",
+      "adresse": "65 avenue Saint-Rémy 57600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Hagondange",
+      "adresse": "33 rue de la Gare 57300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h00 à 17h00"
+    },
+    {
+      "commune": "Borny",
+      "adresse": "7 rue d'Anjou 57070",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h45 à 16h15"
+    },
+    {
+      "commune": "Sarrebourg",
+      "adresse": "13 avenue du Général-de-Gaulle 57400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Sarreguemines",
+      "adresse": "2 rue de l'École 57217",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Thionville",
+      "adresse": "2 allée Bel-Air 57128",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Metz",
+      "adresse": "27 rue des Messageries 57751",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "departement": "Val-d'Oise",
+  "data": [
+    {
+      "commune": "Poste",
+      "adresse": "2 rue de la Poste-Prolongée 95100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Cergy",
+      "adresse": "1 rue des Chauffours 95017",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Deuil-la-Barre",
+      "adresse": "Pôle prévention santé 95170",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Domont",
+      "adresse": "46 rue Aristide-Briand 95330",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Ermont",
+      "adresse": "15 rue de la Halte 95120",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Fosses",
+      "adresse": "Pôle civique 95470",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 14h00 à 17h00"
+    },
+    {
+      "commune": "Franconville",
+      "adresse": "2 rue du Maréchal-Foch 95130",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Garges-lès-Gonesse",
+      "adresse": "1 place Germain-Souflot 95140",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Goussainville",
+      "adresse": "7 avenue Albert-Sarrault 95190",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Saint-Gratien",
+      "adresse": "Boulevard Georgette-Agutte 95210",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Saint-Ouen-l'Aumône",
+      "adresse": "Mairie 95310",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Sarcelles",
+      "adresse": "1 avenue du 8-Mai-1945 95200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Viarmes",
+      "adresse": "8 rue de la Garenne 95270",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Villiers-le-Bel",
+      "adresse": "14 allée Pierre-Corneille 95400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Beaumont-sur-Oise",
+      "adresse": "36 rue Albert-1er 95260",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h30\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Bezons",
+      "adresse": "Maison de la Citoyenneté 95870",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h30 à 12h00\nde 13h30 à 17h00"
+    }
+  ]
+}

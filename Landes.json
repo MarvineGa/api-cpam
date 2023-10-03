@@ -1,0 +1,17 @@
+{
+  "departement": "Landes",
+  "data": [
+    {
+      "commune": "Dax",
+      "adresse": "43 rue Baffert 40107",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mont-de-Marsan",
+      "adresse": "236 Avenue de Canenx 40000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "departement": "Aisne",
+  "data": [
+    {
+      "commune": "Château-Thierry",
+      "adresse": "6 rue de Gerbrois 02400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Chauny",
+      "adresse": "23 rue des Déportés 02302",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Hirson",
+      "adresse": "23 place Jules-Décamps 02500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Laon",
+      "adresse": "2 rue Charles-Péguy 02009",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Soissons",
+      "adresse": "17 rue de Villeneuve 02200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Tergnier",
+      "adresse": "133 avenue Jean-Jaurès 02700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Villers-Cotterets",
+      "adresse": "8 rue Alexandre-Dumas 02600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Quentin",
+      "adresse": "29 boulevard Roosevelt 02323",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

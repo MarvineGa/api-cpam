@@ -1,0 +1,71 @@
+{
+  "departement": "Bas-Rhin",
+  "data": [
+    {
+      "commune": "Erstein",
+      "adresse": "23 rue des Sheds 67150",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Haguenau",
+      "adresse": "17 rue du Maréchal-Joffre 67500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Illkirch",
+      "adresse": "2 rue du Vieux-Moulin 67400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Niederbronn-les-Bains",
+      "adresse": "Mairie 67110",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Sarre-Union",
+      "adresse": "Communauté de communes de l'Alsace Bossue 67260",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Saverne",
+      "adresse": "Sous-Préfecture 67700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 11h30\nde 13h15 à 16h15"
+    },
+    {
+      "commune": "Schiltigheim",
+      "adresse": "Ecoquartier Adelshoffen 67300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Schirmeck",
+      "adresse": "France services 67130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 14h00 à 17h30"
+    },
+    {
+      "commune": "Sélestat",
+      "adresse": "2 avenue Schweisguth 67605",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Strasbourg",
+      "adresse": "16 rue de Lausanne 67090",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 09h00 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Wissembourg",
+      "adresse": "15 route de la Pépinière 67160",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    }
+  ]
+}

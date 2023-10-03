@@ -1,0 +1,17 @@
+{
+  "departement": "Hautes-Alpes",
+  "data": [
+    {
+      "commune": "Briançon",
+      "adresse": "Les Cros 05100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Gap",
+      "adresse": "10 boulevard Georges-Pompidou 05012",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 16h30"
+    }
+  ]
+}

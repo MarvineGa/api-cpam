@@ -1,0 +1,23 @@
+{
+  "departement": "Haute-Marne",
+  "data": [
+    {
+      "commune": "Langres",
+      "adresse": "2 A ruelle de la Poterne 52200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Dizier",
+      "adresse": "7 rue du Brigadier-Albert 52107",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Chaumont",
+      "adresse": "18 boulevard du Maréchal-de-Lattre-de-Tassigny 52915",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

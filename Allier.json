@@ -1,0 +1,29 @@
+{
+  "departement": "Allier",
+  "data": [
+    {
+      "commune": "Commentry",
+      "adresse": "8 rue Jean-Jacques-Rousseau 03600",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Montluçon",
+      "adresse": "70 avenue de la République 03100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vichy",
+      "adresse": "18 avenue Victoria 03200",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Moulins",
+      "adresse": "9-11 rue Achille-Roche 03010",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

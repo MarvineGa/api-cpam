@@ -1,0 +1,47 @@
+{
+  "departement": "Eure",
+  "data": [
+    {
+      "commune": "Andelys",
+      "adresse": "Rue Flavigny 27700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 10h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Bernay",
+      "adresse": "24 rue Guillaume-de-la-Tremblaye 27307",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Évreux",
+      "adresse": "1 place Saint-Taurin 27030",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h30"
+    },
+    {
+      "commune": "Louviers",
+      "adresse": "33 boulevard de Crosne 27405",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Pont-Audemer",
+      "adresse": "Rue du Languedoc 27508",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30"
+    },
+    {
+      "commune": "Verneuil-sur-Avre",
+      "adresse": "462 rue Henri-1er-Beaucler 27130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Vernon",
+      "adresse": "10 avenue Pierre-Mendès-France 27207",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    }
+  ]
+}

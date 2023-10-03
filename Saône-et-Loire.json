@@ -1,0 +1,53 @@
+{
+  "departement": "Saône-et-Loire",
+  "data": [
+    {
+      "commune": "Autun",
+      "adresse": "34 rue de Parpas 71400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 14h00 à 16h30"
+    },
+    {
+      "commune": "Chalon-sur-Saône",
+      "adresse": "24 rue Jean-Moulin 71332",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 16h30"
+    },
+    {
+      "commune": "Creusot",
+      "adresse": "4 avenue de Verdun 71206",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 16h30"
+    },
+    {
+      "commune": "Digoin",
+      "adresse": "91 rue Bartoli 71160",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Louhans",
+      "adresse": "Avenue Fernand-Point 71502",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Montceau-les-Mines",
+      "adresse": "18 boulevard Maréchal-de-Lattre-de-Tassigny 71305",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 16h30"
+    },
+    {
+      "commune": "Tournus",
+      "adresse": "1 rue Chanay 71700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Mâcon",
+      "adresse": "113 rue de Paris 71022",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 16h30"
+    }
+  ]
+}

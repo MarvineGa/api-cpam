@@ -1,0 +1,11 @@
+{
+  "departement": "Cantal",
+  "data": [
+    {
+      "commune": "Aurillac",
+      "adresse": "15 rue Pierre-Marty 15010",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 16h45"
+    }
+  ]
+}

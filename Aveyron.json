@@ -1,0 +1,29 @@
+{
+  "departement": "Aveyron",
+  "data": [
+    {
+      "commune": "Decazeville",
+      "adresse": "Rue Foch 12300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Millau",
+      "adresse": "Rue du Rec 12102",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Villefranche-de-Rouergue",
+      "adresse": "Quai du Temple 12200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Rodez",
+      "adresse": "156 avenue de Bamberg 12020",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    }
+  ]
+}

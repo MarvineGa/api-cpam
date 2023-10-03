@@ -1,0 +1,53 @@
+{
+  "departement": "Alpes-Maritimes",
+  "data": [
+    {
+      "commune": "Antibes",
+      "adresse": "49 avenue Pasteur 06600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 15h30"
+    },
+    {
+      "commune": "Cagnes-sur-Mer",
+      "adresse": "37 avenue de la Gare 06800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Cannes",
+      "adresse": "2 rue de la Verrerie 06150",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h30 à 15h30"
+    },
+    {
+      "commune": "Cannet",
+      "adresse": "345 boulevard Jacques-Monod 06110",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 15h30"
+    },
+    {
+      "commune": "Grasse",
+      "adresse": "16 avenue Riou-Blanquet 06130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 15h30"
+    },
+    {
+      "commune": "Menton",
+      "adresse": "24 avenue Édouard-VII 06500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 15h30"
+    },
+    {
+      "commune": "Pertinax",
+      "adresse": "7 rue Pertinax 06000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Nice",
+      "adresse": "Bâtiment Matisse 06180",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 11h30\nde 13h00 à 15h00"
+    }
+  ]
+}

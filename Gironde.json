@@ -1,0 +1,53 @@
+{
+  "departement": "Gironde",
+  "data": [
+    {
+      "commune": "Grand-Parc",
+      "adresse": "Rue des Frères-Portman 33300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pelleport",
+      "adresse": "232 rue Pelleport 33079",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Cenon",
+      "adresse": "Bâtiment Grand-angle 33150",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Langon",
+      "adresse": "70 cours du Général-Leclerc 33214",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lesparre-Médoc",
+      "adresse": "5 rue de Grammont 33340",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Libourne",
+      "adresse": "31 rue Pistouley 33500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mérignac",
+      "adresse": "60 avenue du Maréchal-de-Lattre-de-Tassigny 33700",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pessac",
+      "adresse": "Avenue Pierre-Wiehn 33604",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

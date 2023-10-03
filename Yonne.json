@@ -1,0 +1,29 @@
+{
+  "departement": "Yonne",
+  "data": [
+    {
+      "commune": "Avallon",
+      "adresse": "60 rue de Lyon 89200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Joigny",
+      "adresse": "5 rue Jules-Dumont-d'Urville 89300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Sens",
+      "adresse": "23 boulevard Maréchal-Foch 89100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Auxerre",
+      "adresse": "1-3 rue du Moulin 89024",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

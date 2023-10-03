@@ -1,0 +1,53 @@
+{
+  "departement": "Haut-Rhin",
+  "data": [
+    {
+      "commune": "Altkirch",
+      "adresse": "Sous-Préfecture 68130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Guebwiller",
+      "adresse": "Maison de santé Marie 68500",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Mulhouse",
+      "adresse": "26 avenue Robert-Schuman 68100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    },
+    {
+      "commune": "Munster",
+      "adresse": "Communauté de communes 68140",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 14h00 à 17h30"
+    },
+    {
+      "commune": "Sainte-Marie-aux-Mines",
+      "adresse": "118 rue du Maréchal-de-Lattre-de-Tassigny 68160",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 11h45\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Louis",
+      "adresse": "88 rue de Mulhouse 68300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 15h30"
+    },
+    {
+      "commune": "Thann",
+      "adresse": "14 place de Joffre 68800",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 11h45\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Colmar",
+      "adresse": "19 boulevard du Champs-de-Mars 68022",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 16h00"
+    }
+  ]
+}

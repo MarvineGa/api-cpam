@@ -1,0 +1,53 @@
+{
+  "departement": "Calvados",
+  "data": [
+    {
+      "commune": "Bayeux",
+      "adresse": "1 rue des Platanes 14400",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "11-Novembre",
+      "adresse": "16 rue du 11-Novembre 14000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 12h30 à 13h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Dives-sur-Mer",
+      "adresse": "5 rue du Champ-de-Foire 14160",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Falaise",
+      "adresse": "Route de Trun 14700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Honfleur",
+      "adresse": "21 rue de l’homme de bois 14600",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Lisieux",
+      "adresse": "17 rue du Docteur-Degrenne 14100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Vire",
+      "adresse": "8 rue Émile-Desvaux 14500",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Caen",
+      "adresse": "108 boulevard Jean-Moulin 14031",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

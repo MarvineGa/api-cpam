@@ -1,0 +1,35 @@
+{
+  "departement": "Nièvre",
+  "data": [
+    {
+      "commune": "Château-Chinon",
+      "adresse": "6 place Notre-Dame 58120",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h45 à 12h00"
+    },
+    {
+      "commune": "Clamecy",
+      "adresse": "Boulevard Misset 58500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h45 à 12h00\nde 14h00 à 15h30"
+    },
+    {
+      "commune": "Cosne-Cours-sur-Loire",
+      "adresse": "45 rue Général-Binot 58207",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h45 à 12h30\nde 13h30 à 16h45"
+    },
+    {
+      "commune": "Decize",
+      "adresse": "117 avenue de Verdun 58300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h45 à 12h30\nde 13h30 à 16h45"
+    },
+    {
+      "commune": "Nevers",
+      "adresse": "50 rue Paul-Vaillant-Couturier 58025",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h45 à 12h30\nde 13h30 à 16h45"
+    }
+  ]
+}

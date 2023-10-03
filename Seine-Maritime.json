@@ -1,0 +1,83 @@
+{
+  "departement": "Seine-Maritime",
+  "data": [
+    {
+      "commune": "Fécamp",
+      "adresse": "20 place du Général-Leclerc 76400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Caucriauville",
+      "adresse": "10 rue Jules-Vallès 76610",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Lillebonne",
+      "adresse": "32 rue de la République 76170",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Havre",
+      "adresse": "42 cours de la République 76094",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Darnetal",
+      "adresse": "99 rue Longpaon 76160",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Dieppe",
+      "adresse": "19 rue de Stalingrad 76200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Elbeuf",
+      "adresse": "Rue de la Prairie 76500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Eu",
+      "adresse": "11 rue Paul-Bignon 76260",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Haut-de-Rouen",
+      "adresse": "8 rue Joachim-du-Bellay 76000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h00\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Notre-Dame-de-Bondeville",
+      "adresse": "95 route de Dieppe 76960",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h00\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Saint-Étienne-du-Rouvray",
+      "adresse": "Château Blanc-le-Madrillet 76800",
+      "tel": "0184903646",
+      "horaire": "Du Mardi au Vendredi : de 08h30 à 12h00\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Yvetot",
+      "adresse": "Place de la Gare 76190",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h00\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Rouen",
+      "adresse": "50 avenue de Bretagne 76039",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h30"
+    }
+  ]
+}

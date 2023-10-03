@@ -1,0 +1,83 @@
+{
+  "departement": "Essonne",
+  "data": [
+    {
+      "commune": "Arpajon",
+      "adresse": "15 rue Jules-Lemoine 91298",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Ballancourt-sur-Essonne",
+      "adresse": "Parvis des communautés 91612",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Brétigny-sur-Orge",
+      "adresse": "29 rue Édouard-Branly 91220",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 11h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Corbeil-Essonnes",
+      "adresse": "3 rue Pierre-Semard 91811",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Étampes",
+      "adresse": "26 rue de Saclas 91150",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Évry",
+      "adresse": "5 rue du Facteur-Cheval 91000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Grigny",
+      "adresse": "9 rue Gabriel-Péri 91350",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Longjumeau",
+      "adresse": "86 boulevard du Docteur-Cathelin 91166",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Massy",
+      "adresse": "2 rue de l'Opéra 91300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Morsang-sur-Orge",
+      "adresse": "Maison de la Citoyenneté 91390",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h15 à 12h00"
+    },
+    {
+      "commune": "Ris-Orangis",
+      "adresse": "14 place du Moulin-à-Vent 91130",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h30 à 12h00"
+    },
+    {
+      "commune": "Ulis",
+      "adresse": "128 avenue des Champs-Lasniers 91941",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    },
+    {
+      "commune": "Vigneux-sur-Seine",
+      "adresse": "149 avenue Henri-Barbusse 91270",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h45 à 17h00"
+    }
+  ]
+}

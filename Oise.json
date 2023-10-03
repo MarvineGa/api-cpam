@@ -1,0 +1,47 @@
+{
+  "departement": "Oise",
+  "data": [
+    {
+      "commune": "Clermont",
+      "adresse": "5 square Marcel-Pagnol 60600",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Compiègne",
+      "adresse": "Rue du Général-Koenig 60321",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    },
+    {
+      "commune": "Creil",
+      "adresse": "13 rue Ribot 60313",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    },
+    {
+      "commune": "Grandvilliers",
+      "adresse": "32 rue Frédéric-Petit 60210",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 09h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Buhat",
+      "adresse": "12 rue du Buhat 60400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Just-en-Chaussée",
+      "adresse": "Maison du conseil général 60130",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 14h00 à 17h00"
+    },
+    {
+      "commune": "Beauvais",
+      "adresse": "1 rue de Savoie 60013",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h00"
+    }
+  ]
+}

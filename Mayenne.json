@@ -1,0 +1,29 @@
+{
+  "departement": "Mayenne",
+  "data": [
+    {
+      "commune": "Château-Gontier",
+      "adresse": "3 place de la Mairie 53200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Mayenne",
+      "adresse": "3 place de l'Europe 53100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Villaines-la-Juhel",
+      "adresse": "Maison de services au public 53700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Laval",
+      "adresse": "37 boulevard Montmorency 53084",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

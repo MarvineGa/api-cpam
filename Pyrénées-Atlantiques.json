@@ -1,0 +1,65 @@
+{
+  "departement": "Pyrénées-Atlantiques",
+  "data": [
+    {
+      "commune": "Hauts-de-Sainte-Croix",
+      "adresse": "26 place des Gascons 64100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Jean-de-Luz",
+      "adresse": "32 avenue de Habas 64500",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Palais",
+      "adresse": "1 rue du Jeu-de-Paume 64120",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Bayonne",
+      "adresse": "68 Allées-Marines 64100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Mauléon-Licharre",
+      "adresse": "14 rue des Frères-Barenne 64130",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mourenx",
+      "adresse": "Boulevard de la République 64150",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Nay",
+      "adresse": "Maison de services au public 64800",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Oloron-Sainte-Marie",
+      "adresse": "Rue Albert-Rioux 64400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Orthez",
+      "adresse": "Maison de la solidarité départementale 64300",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pau",
+      "adresse": "26 bis avenue des Lilas 64022",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

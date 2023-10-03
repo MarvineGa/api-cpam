@@ -1,0 +1,59 @@
+{
+  "departement": "Hérault",
+  "data": [
+    {
+      "commune": "Agde",
+      "adresse": "Espace Mirabel 34300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h30\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Béziers",
+      "adresse": "2 rond-point Hours 34500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h30"
+    },
+    {
+      "commune": "Frontignan",
+      "adresse": "8 quai Voltaire 34110",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Ganges",
+      "adresse": "Maison des services 34190",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h30 à 12h30\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Lodève",
+      "adresse": "1 rue du 4-Septembre 34700",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Lunel",
+      "adresse": "2 rue Henri-Reynaud 34400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Gambetta",
+      "adresse": "29 cours Gambetta 34934",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h30"
+    },
+    {
+      "commune": "Mosson",
+      "adresse": "90 allée Amilcare-Calvetti 34000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 16h30"
+    },
+    {
+      "commune": "Sète",
+      "adresse": "287 avenue du Maréchal-Juin 34200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    }
+  ]
+}

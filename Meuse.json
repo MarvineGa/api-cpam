@@ -1,0 +1,53 @@
+{
+  "departement": "Meuse",
+  "data": [
+    {
+      "commune": "Clermont-en-Argonne",
+      "adresse": "Codecom Point public 55120",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 13h30 à 15h30"
+    },
+    {
+      "commune": "Commercy",
+      "adresse": "22 avenue Stanislas 55200",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Étain",
+      "adresse": "25 rue des Écoles 55400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 13h30 à 15h30"
+    },
+    {
+      "commune": "Revigny-sur-Ornain",
+      "adresse": "7 avenue de la Haie-Herlin 55800",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Stenay",
+      "adresse": "6 avenue de Verdun 55700",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h00\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Vaucouleurs",
+      "adresse": "10 rue Raymond-Poincaré 55140",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h30 à 11h30"
+    },
+    {
+      "commune": "Verdun",
+      "adresse": "24 rue d'Anthouard 55100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 17h00"
+    },
+    {
+      "commune": "Bar-le-Duc",
+      "adresse": "1 rue de Polval 55015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 17h00"
+    }
+  ]
+}

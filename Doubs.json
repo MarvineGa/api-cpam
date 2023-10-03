@@ -1,0 +1,29 @@
+{
+  "departement": "Doubs",
+  "data": [
+    {
+      "commune": "Audincourt",
+      "adresse": "8 avenue Aristide-Briand 25400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Montbéliard",
+      "adresse": "3 rue Léon-Blum 25200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h30"
+    },
+    {
+      "commune": "Pontarlier",
+      "adresse": "2 rue des Capucins 25300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Besançon",
+      "adresse": "2 rue Denis-Papin 25036",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 17h30"
+    }
+  ]
+}

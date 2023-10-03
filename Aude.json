@@ -1,0 +1,41 @@
+{
+  "departement": "Aude",
+  "data": [
+    {
+      "commune": "Castelnaudary",
+      "adresse": "Boulevard Général-Lapasset 11400",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Lézignan-Corbière",
+      "adresse": "19 rue Gambetta 11200",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Limoux",
+      "adresse": "17 chemin du Farinier 11300",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Narbonne",
+      "adresse": "37 avenue De-Lattre-de-Tassigny 11789",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Port-la-Nouvelle",
+      "adresse": "197 rue de la Mairie 11210",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Carcassonne",
+      "adresse": "2 allée de Bezons 11017",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h00 à 16h30"
+    }
+  ]
+}

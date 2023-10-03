@@ -1,0 +1,11 @@
+{
+  "departement": "Haute-Saône",
+  "data": [
+    {
+      "commune": "Vesoul",
+      "adresse": "9 boulevard des Alliés 70020",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 16h00"
+    }
+  ]
+}

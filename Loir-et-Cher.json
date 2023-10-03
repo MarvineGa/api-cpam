@@ -1,0 +1,65 @@
+{
+  "departement": "Loir-et-Cher",
+  "data": [
+    {
+      "commune": "Lamotte-Beuvron",
+      "adresse": "Maison France services Cœur de Sologne 41600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mer",
+      "adresse": "France services itinérante 41500",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h30 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Mondoubleau",
+      "adresse": "3 allée de la Gare 41170",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Montrichard",
+      "adresse": "4 rue de la Chancellerie 41400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Romorantin-Lanthenay",
+      "adresse": "Rue Monseigneur-Louis-Couppe 41200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Aignan",
+      "adresse": "3 rue Victor-Hugo 41110",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Salbris",
+      "adresse": "Accueil hébergé France services SUB12 41300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h30"
+    },
+    {
+      "commune": "Selles-sur-Cher",
+      "adresse": "Maison de l'emploi 41130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Vendôme",
+      "adresse": "60 avenue Gérard-Yvon 41107",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Blois",
+      "adresse": "6 rue Louis-Armand 41022",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

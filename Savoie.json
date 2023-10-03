@@ -1,0 +1,35 @@
+{
+  "departement": "Savoie",
+  "data": [
+    {
+      "commune": "Aix-les-Bains",
+      "adresse": "657 boulevard Wilson 73106",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Albertville",
+      "adresse": "20 rue Jacques-Porraz 73207",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Moûtiers",
+      "adresse": "185 quai de la République 73600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Saint-Jean-de-Maurienne",
+      "adresse": "16 avenue Samuel-Pasquier 73301",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h30"
+    },
+    {
+      "commune": "Chambéry",
+      "adresse": "5 avenue Jean-Jaurès 73015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

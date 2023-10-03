@@ -1,0 +1,41 @@
+{
+  "departement": "Vienne",
+  "data": [
+    {
+      "commune": "Châtellerault",
+      "adresse": "5 boulevard de l'Envigne 86117",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 13h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Roche-Posay",
+      "adresse": "Place de la République 86270",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Loudun",
+      "adresse": "Place de la Mairie 86200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 09h00 à 12h15\nde 13h30 à 16h00"
+    },
+    {
+      "commune": "Lussac-les-Châteaux",
+      "adresse": "Mairie de Lussac-les-Châteaux 86140",
+      "tel": "0184903646",
+      "horaire": null
+    },
+    {
+      "commune": "Montmorillon",
+      "adresse": "Maison des services 86501",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h45 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Poitiers",
+      "adresse": "41 rue du Touffenet 86043",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 17h00"
+    }
+  ]
+}

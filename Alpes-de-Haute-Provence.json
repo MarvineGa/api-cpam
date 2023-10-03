@@ -1,0 +1,17 @@
+{
+  "departement": "Alpes-de-Haute-Provence",
+  "data": [
+    {
+      "commune": "Manosque",
+      "adresse": "ZAC de Chante-Prunier 04100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h15\nde 13h15 à 16h30"
+    },
+    {
+      "commune": "Digne-les-Bains",
+      "adresse": "3 rue Alphonse-Richard 04010",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h15\nde 13h15 à 16h30"
+    }
+  ]
+}

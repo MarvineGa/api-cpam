@@ -1,0 +1,83 @@
+{
+  "departement": "Yvelines",
+  "data": [
+    {
+      "commune": "Chanteloup-les-Vignes",
+      "adresse": "33 avenue de Poissy 78570",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Guyancourt",
+      "adresse": "33 boulevard Vauban 78280",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Jeudi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Houilles",
+      "adresse": "3 place du 14-Juillet 78800",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mantes-la-Jolie",
+      "adresse": "Sully 78200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mantes-la-Ville",
+      "adresse": "1 place du Marché 78711",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 08h30 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Mureaux",
+      "adresse": "30 rue Gambetta 78130",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Plaisir",
+      "adresse": "56 place du Commerce 78370",
+      "tel": "0184903646",
+      "horaire": "Du Mercredi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Poissy",
+      "adresse": "1 place Duployé 78303",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Rambouillet",
+      "adresse": "92 rue d'Angiviller 78514",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Saint-Germain-en-Laye",
+      "adresse": "Place des Rotondes 78100",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Sartrouville",
+      "adresse": "3 rue Louis-Pergaud 78500",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Trappes",
+      "adresse": "2 rue Paul-Langevin 78190",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Versailles",
+      "adresse": "92 avenue de Paris 78014",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mardi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    }
+  ]
+}

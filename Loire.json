@@ -1,0 +1,53 @@
+{
+  "departement": "Loire",
+  "data": [
+    {
+      "commune": "Andrézieux-Bouthéon",
+      "adresse": "Avenue du Parc 42160",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Feurs",
+      "adresse": "10 rue des Minettes 42110",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Firminy",
+      "adresse": "Rue du Champ-de-Mars 42700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Montbrison",
+      "adresse": "Rue de la Préfecture 42600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Rive-de-Gier",
+      "adresse": "Cours du 8-Mai 42800",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Roanne",
+      "adresse": "26 place des Promenades-Populle 42300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Chamond",
+      "adresse": "23 avenue de la Libération 42400",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    },
+    {
+      "commune": "Saint-Étienne",
+      "adresse": "1 place Parvis-Pierre-Laroque et Ambroise Croizat 42027",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h15 à 12h00\nde 13h00 à 16h30"
+    }
+  ]
+}

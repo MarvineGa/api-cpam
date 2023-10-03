@@ -1,0 +1,53 @@
+{
+  "departement": "Ain",
+  "data": [
+    {
+      "commune": "Ambérieu-en-Bugey",
+      "adresse": "46 rue Aristide-Briand 01500",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Bellegarde-sur-Valserine",
+      "adresse": "Bellegarde-sur-Valserine 01200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Belley",
+      "adresse": "Îlot Baudin 01300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Jassans-Riottier",
+      "adresse": "Rue de Beaurivage 01480",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Oyonnax",
+      "adresse": "188 rue Anatole-France 01100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Genis-Pouilly",
+      "adresse": "62 rue de Genève 01630",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h00 à 16h00"
+    },
+    {
+      "commune": "Saint-Maurice-de-Beynost",
+      "adresse": "14 rue Honoré-de-Balzac 01700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Bourg-en-Bresse",
+      "adresse": "1 place de la Grenouillère 01015",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h00 à 12h30\nde 13h30 à 16h30"
+    }
+  ]
+}

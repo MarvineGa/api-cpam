@@ -1,0 +1,41 @@
+{
+  "departement": "Côte-d'Armor",
+  "data": [
+    {
+      "commune": "Dinan",
+      "adresse": "6 rue 10e-Régiment-d'Artillerie 22100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Guingamp",
+      "adresse": "Champ-au-Roy 22205",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Lannion",
+      "adresse": "17 boulevard Louis-Guilloux 22300",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Loudéac",
+      "adresse": "15 rue de Moncontour 22600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h00\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Tréguier",
+      "adresse": "12 rue Lamennais 22220",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 09h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Brieuc",
+      "adresse": "106 boulevard Hoche 22024",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 11h45\nde 13h00 à 17h00"
+    }
+  ]
+}

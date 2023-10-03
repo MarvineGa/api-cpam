@@ -1,0 +1,41 @@
+{
+  "departement": "Orne",
+  "data": [
+    {
+      "commune": "Perseigne",
+      "adresse": "Maison de services au public 61000",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Argentan",
+      "adresse": "15 rue des Vieilles-Halles 61200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h00 à 12h30\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Domfront",
+      "adresse": "15 rue Montgomery 61700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Flers",
+      "adresse": "Impasse Fouchard 61100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Ferté-Macé",
+      "adresse": "Maison du service public 61600",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 09h30 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Alençon",
+      "adresse": "34 place Bonet 61012",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Mercredi : de 08h30 à 12h30\nde 13h30 à 17h00"
+    }
+  ]
+}

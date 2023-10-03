@@ -1,0 +1,47 @@
+{
+  "departement": "Drôme",
+  "data": [
+    {
+      "commune": "Crest",
+      "adresse": "Maison Bovet 26400",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Livron-sur-Drôme",
+      "adresse": "90 rue Joseph-Combier 26250",
+      "tel": "0184903646",
+      "horaire": "Le Mercredi : de 08h00 à 12h00"
+    },
+    {
+      "commune": "Montélimar",
+      "adresse": "1 place de l'Europe 26200",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Pierrelatte",
+      "adresse": "4 avenue Jean-Perrin 26700",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Romans-sur-Isère",
+      "adresse": "24 Côte des Cordeliers 26100",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Valence-le-Haut",
+      "adresse": "6 rue du Docteur-Marc-Koharian 26000",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    },
+    {
+      "commune": "Valence",
+      "adresse": "6 avenue Édouard-Herriot 26024",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h15\nde 13h30 à 17h00"
+    }
+  ]
+}

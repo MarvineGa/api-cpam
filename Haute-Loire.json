@@ -1,0 +1,53 @@
+{
+  "departement": "Haute-Loire",
+  "data": [
+    {
+      "commune": "Aurec-sur-Loire",
+      "adresse": "Rue Plaine 43110",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 09h00 à 12h00"
+    },
+    {
+      "commune": "Brioude",
+      "adresse": "5 rue de la République 43100",
+      "tel": "0184903646",
+      "horaire": "Le Vendredi : de 09h00 à 12h00\nde 13h30 à 15h30"
+    },
+    {
+      "commune": "Chambon-sur-Lignon",
+      "adresse": "Bureau de poste 43400",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 08h45 à 12h00\nde 14h00 à 17h00"
+    },
+    {
+      "commune": "Monistrol-sur-Loire",
+      "adresse": "21 rue du 11-Novembre 43120",
+      "tel": "0184903646",
+      "horaire": "Le Lundi : de 09h00 à 12h00\nde 13h30 à 16h30"
+    },
+    {
+      "commune": "Sainte-Sigolène",
+      "adresse": "Place de l'Hôtel-de-Ville 43600",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 13h30 à 16h30"
+    },
+    {
+      "commune": "Saint-Just-Malmont",
+      "adresse": "Place Marie-Louise-Deguillaume 43240",
+      "tel": "0184903646",
+      "horaire": "Le Mardi : de 09h30 à 12h00"
+    },
+    {
+      "commune": "Yssingeaux",
+      "adresse": "Pôle social de Crisselle 43200",
+      "tel": "0184903646",
+      "horaire": "Le Jeudi : de 13h30 à 15h30"
+    },
+    {
+      "commune": "Puy-en-Velay",
+      "adresse": "10 avenue André-Soulier 43009",
+      "tel": "0184903646",
+      "horaire": "Du Lundi au Vendredi : de 08h30 à 12h00\nde 13h00 à 16h30"
+    }
+  ]
+}
